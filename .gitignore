@@ -1,0 +1,22 @@
+# Backend
+banking-backend/target/
+banking-backend/*.iml
+banking-backend/.idea/
+
+# Frontend
+banking-frontend/node_modules/
+banking-frontend/dist/
+banking-frontend/.angular/
+
+# IDE
+.idea/
+*.iml
+.vscode/
+
+# OS
+.DS_Store
+Thumbs.db
+
+# Environment
+*.env
+*.log
