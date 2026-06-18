@@ -16,7 +16,7 @@ A comprehensive banking application that demonstrates Full Stack Development con
 ### Backend
 | Technology | Purpose |
 |-----------|---------|
-| Java 21 | Programming language |
+| Java 20+ | Programming language |
 | Spring Boot 3.2 | Application framework |
 | Spring Data JPA | Database ORM |
 | Spring Security | Security configuration |
@@ -77,7 +77,7 @@ A comprehensive banking application that demonstrates Full Stack Development con
 
 | Software | Version | Download |
 |----------|---------|----------|
-| JDK | 21 | https://adoptium.net/temurin/releases/?version=21 |
+| JDK | 20+ | https://adoptium.net/temurin/releases/?version=20 |
 | Maven | 3.9+ | https://maven.apache.org/download.cgi |
 | Node.js | 18+ | https://nodejs.org |
 | Angular CLI | 17+ | `npm install -g @angular/cli` |
