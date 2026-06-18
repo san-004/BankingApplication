@@ -1,0 +1,10 @@
+{
+  "buildCommand": "cd banking-frontend && npm run build",
+  "outputDirectory": "banking-frontend/dist/banking-frontend",
+  "rewrites": [
+    {
+      "source": "/(.*)",
+      "destination": "/index.html"
+    }
+  ]
+}
