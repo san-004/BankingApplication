@@ -1,4 +1,4 @@
 export const environment = {
   production: true,
-  apiUrl: 'https://your-backend.onrender.com/api'  // Update with your Render URL
+  apiUrl: 'https://banking-backend-v8ak.onrender.com/api'
 };
