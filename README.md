@@ -91,8 +91,8 @@ Open http://localhost:4200 in your browser. The app loads with 5 sample accounts
 ## Deployment
 
 ### Live URLs
-- **Frontend:** https://banking-application-n0laycmsl-ss-projects-37f5b678.vercel.app
-- **Backend:** *(Your Render backend URL)*
+- **Frontend:** https://banking-application-mffc862i7-ss-projects-37f5b678.vercel.app/dashboard
+- **Backend:**  https://banking-backend-v8ak.onrender.com
 
 ### Backend + Database (Render)
 1. Create a free PostgreSQL database on Render
